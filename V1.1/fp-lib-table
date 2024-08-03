@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "gl823k")(type "KiCad")(uri "${KIPRJMOD}/gl823k")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/SamacSys_Parts.pretty")(options "")(descr ""))
+)
